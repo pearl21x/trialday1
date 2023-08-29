@@ -1,2 +1,6 @@
 hello, world
+<<<<<<< HEAD
 okay changing this locally
+=======
+I'm gonna be a problem 
+>>>>>>> 99554f4e24e5ec7d7cf942beebe83a27153336b8
